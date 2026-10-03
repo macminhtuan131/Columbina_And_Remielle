@@ -1,6 +1,6 @@
 # Columbina & Gemielle — Dreamy trying to develop them
 
-First word from the creator: I tried ._. But I'm still trying to develop them
+First word from the creator: I tried ._. But I'm still developing them
 
 This repository contains **Gemielle**, a Chrome extension that displays an animated assistant on **Google Gemini** and **ChatGPT**, plus ready-made **Gemielle** and **Columbina** sprite sheets for ChatGPT Pets.
 
