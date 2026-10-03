@@ -1,4 +1,6 @@
-# Columbina & Gemielle — Animated AI Companions
+# Columbina & Gemielle — Dreamy trying to develop them
+
+First word from the creator: I tried ._. But I'm still trying to develop them
 
 This repository contains **Gemielle**, a Chrome extension that displays an animated assistant on **Google Gemini** and **ChatGPT**, plus ready-made **Gemielle** and **Columbina** sprite sheets for ChatGPT Pets.
 
@@ -8,8 +10,8 @@ The original Vietnamese installation guide is preserved in [README.vi.md](README
 
 | Character | Appearance and mood | Files |
 | --- | --- | --- |
-| **Gemielle** | A cheerful seated chibi assistant with pink hair, large pink eyes, a white star hair clip, tiny white wings, a white/lavender outfit, and a clipboard. Her gestures accompany waiting, thinking, working, and finishing an answer. | Browser GIFs in [assets/](assets/); pet artwork in [pet/Gemielle/](pet/Gemielle/). |
-| **Columbina** | A gentle seated chibi companion with long burgundy hair, white feather ornaments, blue/white clothing, a white geometric eye mask, crossed white/lavender foot ribbons, and a book. The current artwork has closed eyes and a small smile in the standard states and the second look row; violet eyes open in the first look row. | Artwork, revisions, previews, and QA in [pet/Columbina-Chibi/](pet/Columbina-Chibi/). |
+| **Gemielle** | A cheerful seated (VOIDHUNTER) chibi assistant with pink hair, large pink eyes, tiny white wings, a white/lavender outfit, and a clipboard. | Browser GIFs in [assets/](assets/); pet artwork in [pet/Gemielle/](pet/Gemielle/). |
+| **Columbina** | A gentle seated (Moon Maiden) chibi companion with long burgundy hair, white feather ornaments, blue/white clothing, a white geometric eye mask. | Artwork, revisions, previews, and QA in [pet/Columbina-Chibi/](pet/Columbina-Chibi/). |
 
 | Gemielle | Columbina |
 | :---: | :---: |
