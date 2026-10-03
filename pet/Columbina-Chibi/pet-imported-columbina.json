@@ -1,0 +1,13 @@
+{
+  "pet_id": "pet_6ac148e303088191917233b149adc538",
+  "name": "Columbina",
+  "description": "A gentle chibi companion with burgundy hair, a white geometric eye mask, blue-white feathers, crossed foot ribbons, and seated book-holding poses.",
+  "is_custom": true,
+  "is_active_at_verification": false,
+  "verified_date": "2026-10-04",
+  "timezone": "Asia/Saigon",
+  "source": "final/spritesheet-extended.png",
+  "sha256": "067b8791e19d592d87413e661cec03959ce791f0856700a1a0200d8ad05f1d08",
+  "validation": "qa/validation-import.json",
+  "quality_report": "qa/pet-quality-import.json"
+}
