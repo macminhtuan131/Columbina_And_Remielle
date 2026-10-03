@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "frames_root": "/tmp/columbina-pet-run/qa/rows/failed/frames",
+  "states": [
+    "failed"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/tmp/columbina-pet-run/qa/rows/failed/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22829,
+          "bbox": [
+            9,
+            11,
+            183,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 397
+        },
+        {
+          "index": 1,
+          "file": "/tmp/columbina-pet-run/qa/rows/failed/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22711,
+          "bbox": [
+            9,
+            11,
+            183,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 390
+        },
+        {
+          "index": 2,
+          "file": "/tmp/columbina-pet-run/qa/rows/failed/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22656,
+          "bbox": [
+            9,
+            11,
+            183,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 414
+        },
+        {
+          "index": 3,
+          "file": "/tmp/columbina-pet-run/qa/rows/failed/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22720,
+          "bbox": [
+            8,
+            12,
+            184,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 417
+        },
+        {
+          "index": 4,
+          "file": "/tmp/columbina-pet-run/qa/rows/failed/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21791,
+          "bbox": [
+            5,
+            21,
+            187,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 396
+        },
+        {
+          "index": 5,
+          "file": "/tmp/columbina-pet-run/qa/rows/failed/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21710,
+          "bbox": [
+            6,
+            23,
+            185,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 387
+        },
+        {
+          "index": 6,
+          "file": "/tmp/columbina-pet-run/qa/rows/failed/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22941,
+          "bbox": [
+            8,
+            12,
+            184,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 378
+        },
+        {
+          "index": 7,
+          "file": "/tmp/columbina-pet-run/qa/rows/failed/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23030,
+          "bbox": [
+            8,
+            9,
+            183,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 411
+        }
+      ]
+    }
+  ]
+}

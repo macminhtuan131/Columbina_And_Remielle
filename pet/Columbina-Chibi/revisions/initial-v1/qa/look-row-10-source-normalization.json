@@ -1,0 +1,5 @@
+{
+  "scale": 1.17,
+  "scope": "entire coherent eight-pose source strip",
+  "reason": "Match row9 source geometry after separating touching poses; preserve one shared row9 registration transform"
+}

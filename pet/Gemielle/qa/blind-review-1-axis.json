@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "Both faces lift; A's eye line and face angle lean screen-left, B's lean screen-right."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Both faces look high; A turns toward screen-right, B toward screen-left."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A has a clear right-facing head and gaze, while B faces screen-left."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's face and eyes turn screen-left, B's turn screen-right."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Both eye lines dip; A aims screen-right, B aims screen-left."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "Both heads bow; A's face angles screen-left, B's angles screen-right."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Both look low; A's visible facial turn trends screen-right, B's trends screen-left, though the horizontal signal is subtle."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A bows toward the clipboard; B lifts face and pupils above neutral."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "Both lean screen-right; A's head and eyes drop toward clipboard, B's lift."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A's eyes and nose point lower, B's eyes and face point higher, with rightward turn in both."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A aims toward the lower screen-right, B toward the upper screen-right."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A bows and looks leftward, B lifts the eyes and face while retaining a leftward angle."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A's eye line is low and screen-left, B's high and screen-left."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "up",
+      "B": "down",
+      "reason": "A's face and eyes lift while B's lower; both turn toward screen-left."
+    }
+  ]
+}

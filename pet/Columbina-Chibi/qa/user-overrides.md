@@ -1,0 +1,1 @@
+User requests ONLY row 9 open eyes. Rows 0-8 and 10 have white geometric mask, closed eyes and gentle closed-mouth smile. Row10 directional meaning uses head pitch/yaw and nose/mask perspective, not pupil direction. Foot ribbons restored in every pose.

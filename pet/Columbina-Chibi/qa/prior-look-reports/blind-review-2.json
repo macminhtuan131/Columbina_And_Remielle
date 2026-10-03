@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A has the nose and chin displaced toward the right, with the right eye foreshortened; B has the nose and chin displaced toward the left, with the left eye foreshortened."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A shows more of the right cheek and places the nose on the left side of the face; B shows more of the left cheek and places the nose on the right side."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A has a narrow far eye at the right edge and a rightward nose; B has a narrow far eye at the left edge and a leftward nose."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A has the visible mouth and nose toward screen-left, with the left eye narrowed in profile; B has the mouth and nose toward screen-right and the right eye narrowed in profile."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A places the nose left of the midpoint between the cheeks and shows the broad right cheek; B places the nose right of the midpoint and shows the broad left cheek."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Despite both lowered chins, A angles the nose and face toward screen-right and compresses the right eye; B angles the nose and face toward screen-left and compresses the left eye."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "Both heads are bowed, but A places the mouth and facial center toward screen-left, with a broader right cheek; B places them toward screen-right, with a broader left cheek."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A raises the chin and exposes a tall cheek area beneath the open eyes, with pupils toward the upper eye area; B bows the chin close to the book and lowers the eyes beneath the fringe."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A bows the head, with half-lidded eyes under a low fringe and the chin near the book; B lifts the chin and pupils, exposing the cheek and lower face."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A lifts the chin with wide eyes aimed upward and a longer exposed lower face; B lowers the chin and has half-lidded downward-looking eyes beneath the fringe."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A has the chin tucked toward the collar and pupils lower beneath the fringe; B tips the chin upward and has higher pupils with more cheek visible below the eyes."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "up",
+      "B": "down",
+      "reason": "A raises the chin and has pupils high in wide-open eyes; B lowers the head, shortens the visible lower face and holds the eyes under lowered lids."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A tucks the chin and keeps the pupils low under the fringe; B raises the facial plane, with higher pupils, a lifted nose and more exposed cheek beneath the eyes."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "up",
+      "B": "down",
+      "reason": "A lifts the nose and chin and directs the pupils toward the upper part of the eyes; B tucks the chin lower and places the pupils lower under the bangs."
+    }
+  ]
+}

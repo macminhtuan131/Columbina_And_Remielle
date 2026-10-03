@@ -1,0 +1,50 @@
+[
+  {
+    "state": "waiting",
+    "source_size": [
+      2043,
+      770
+    ],
+    "bbox": [
+      9,
+      207,
+      2033,
+      525
+    ],
+    "horizontal_edge_pixels": 0,
+    "left_margin": 9,
+    "right_margin": 10
+  },
+  {
+    "state": "running",
+    "source_size": [
+      1824,
+      862
+    ],
+    "bbox": [
+      6,
+      249,
+      1816,
+      615
+    ],
+    "horizontal_edge_pixels": 0,
+    "left_margin": 6,
+    "right_margin": 8
+  },
+  {
+    "state": "review",
+    "source_size": [
+      2172,
+      724
+    ],
+    "bbox": [
+      16,
+      154,
+      2144,
+      545
+    ],
+    "horizontal_edge_pixels": 0,
+    "left_margin": 16,
+    "right_margin": 28
+  }
+]

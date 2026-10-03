@@ -1,0 +1,29 @@
+{
+  "state": "running-left",
+  "source_strip": "/home/tuanmac/.codex/generated_images/01a1028d-c517-7a41-8329-f4aa57196c3e/exec-6dcafa2b-4363-47cc-9236-f306f98b15f6.png",
+  "source_crop": [
+    1780,
+    440,
+    1900,
+    560
+  ],
+  "enlarged_input": "/tmp/columbina-mask-repair/qa/rows/running-left/trailing-foot-edit-target.png",
+  "crop_upscale": 6,
+  "generated_detail": "/home/tuanmac/.codex/generated_images/01a1028d-c517-7a41-8329-f4aa57196c3e/exec-b8e4faee-bb9c-4728-8e31-9359f3e849a4.png",
+  "generated_resized_to": [
+    120,
+    120
+  ],
+  "selected_detail_box": [
+    31,
+    45,
+    91,
+    95
+  ],
+  "placement": [
+    1811,
+    485
+  ],
+  "final_source": "/tmp/columbina-mask-repair/decoded/running-left.png",
+  "note": "Generated source foot-detail repair placed at original source coordinates. Other pose placement and shared source scale preserved."
+}

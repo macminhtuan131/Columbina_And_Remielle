@@ -1,0 +1,13 @@
+{
+  "pet_id": "pet_6ac12b8beac881919dc29a5356c5b505",
+  "name": "Columbina Chibi",
+  "description": "Chibi Columbina in her blue-white feathered outfit, with Gemielle's seated clipboard poses and gentle animated gestures.",
+  "is_custom": true,
+  "is_active": false,
+  "active_pet_id": "pet_6ac10e5a81c48191a81444b67d2fcf7d",
+  "sha256": "067b8791e19d592d87413e661cec03959ce791f0856700a1a0200d8ad05f1d08",
+  "sprite_version": 2,
+  "repair": "Corrected violet pupils/irises; eyes open only row9; geometric mask, closed eyes and gentle closed-mouth smile elsewhere; crisscross foot ribbons restored",
+  "validation": "qa/pets-preflight.json",
+  "quality": "qa/pet-quality.json"
+}

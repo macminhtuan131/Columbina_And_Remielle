@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-right","B":"screen-left","reason":"A's face and nose project right beneath the fringe, with the right eye closer to the outer face edge; B's face projects left, and the nose is left of the eye midpoint."},
+    {"pair":"horizontal-2","A":"screen-left","B":"screen-right","reason":"A has the shortened eye and face edge on the left and the fuller cheek on the right; B mirrors these head cues, with the face and nose extending right."},
+    {"pair":"horizontal-3","A":"screen-right","B":"screen-left","reason":"A's nose is toward the right edge of the face and the visible eye on that side is narrowed by the turn; B's nose and shorter far eye are toward the left edge."},
+    {"pair":"horizontal-4","A":"screen-left","B":"screen-right","reason":"A's exposed facial area sits left of the hair mass and the nose points left; B's exposed facial area and nose are displaced right."},
+    {"pair":"horizontal-5","A":"screen-left","B":"screen-right","reason":"A shows a larger right cheek and the nose left of center; B shows a larger left cheek and the nose right of center."},
+    {"pair":"horizontal-6","A":"screen-right","B":"screen-left","reason":"Despite the downward pitch, A's face is displaced right with the far right eye narrower; B's face is displaced left with the far left eye narrower."},
+    {"pair":"horizontal-7","A":"screen-left","B":"screen-right","reason":"A's nose and face center sit slightly left beneath the bangs with more cheek on the right; B's face center sits right and more cheek is visible on the left."},
+    {"pair":"vertical-1","A":"up","B":"down","reason":"A raises the chin and opens the eyes with pupils toward their upper halves; B lowers the chin toward the book and the fringe presses low over the eyes."},
+    {"pair":"vertical-2","A":"down","B":"up","reason":"A's head is bowed, eyes compressed beneath the bangs and chin close to the book; B lifts the chin and shows pupils aimed upward in wide eyes."},
+    {"pair":"vertical-3","A":"up","B":"down","reason":"A tilts the face upward with an elevated chin and upper eye gaze; B tilts the face down and lowers the eyes beneath the fringe."},
+    {"pair":"vertical-4","A":"down","B":"up","reason":"A's face is lower beneath the fringe, with the chin angled toward the book; B raises the chin and angles the visible eyes and pupils upward."},
+    {"pair":"vertical-5","A":"up","B":"down","reason":"A's chin is lifted and pupils sit high in the open eyes; B bows the face, places the eyes low under the bangs, and brings the chin closer to the book."},
+    {"pair":"vertical-6","A":"down","B":"up","reason":"A's eyes and chin are lowered relative to the fringe and shoulders; B tips the chin up and presents the pupils toward the upper portions of the eyes."},
+    {"pair":"vertical-7","A":"up","B":"down","reason":"The pitch difference is subtle: A lifts its chin and the larger visible pupil sits higher under the eyelid; B lowers the face and holds the eyes and chin closer to the book."}
+  ]
+}

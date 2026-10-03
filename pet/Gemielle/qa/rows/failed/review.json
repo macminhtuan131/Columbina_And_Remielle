@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "frames_root": "/tmp/gemielle-pet-run/qa/rows/failed/frames",
+  "states": [
+    "failed"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/tmp/gemielle-pet-run/qa/rows/failed/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23932,
+          "bbox": [
+            8,
+            7,
+            183,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 526
+        },
+        {
+          "index": 1,
+          "file": "/tmp/gemielle-pet-run/qa/rows/failed/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23963,
+          "bbox": [
+            8,
+            7,
+            182,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 529
+        },
+        {
+          "index": 2,
+          "file": "/tmp/gemielle-pet-run/qa/rows/failed/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24246,
+          "bbox": [
+            9,
+            5,
+            182,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 536
+        },
+        {
+          "index": 3,
+          "file": "/tmp/gemielle-pet-run/qa/rows/failed/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22783,
+          "bbox": [
+            7,
+            21,
+            184,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 398
+        },
+        {
+          "index": 4,
+          "file": "/tmp/gemielle-pet-run/qa/rows/failed/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22176,
+          "bbox": [
+            5,
+            26,
+            186,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 247
+        },
+        {
+          "index": 5,
+          "file": "/tmp/gemielle-pet-run/qa/rows/failed/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22506,
+          "bbox": [
+            7,
+            24,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 233
+        },
+        {
+          "index": 6,
+          "file": "/tmp/gemielle-pet-run/qa/rows/failed/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24010,
+          "bbox": [
+            7,
+            11,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 480
+        },
+        {
+          "index": 7,
+          "file": "/tmp/gemielle-pet-run/qa/rows/failed/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24318,
+          "bbox": [
+            7,
+            7,
+            183,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 543
+        }
+      ]
+    }
+  ]
+}

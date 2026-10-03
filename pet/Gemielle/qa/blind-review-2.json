@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair": "Horizontal pair 1", "A": "up-left", "B": "up-right", "reason": "Both gaze above; A pupils lean left, B pupils and face lean right."},
+    {"pair": "Horizontal pair 2", "A": "up-right", "B": "up-left", "reason": "A face and pupils turn right and high; B turns left and high."},
+    {"pair": "Horizontal pair 3", "A": "right", "B": "left", "reason": "Opposite three-quarter head turns place pupils and nose toward the respective image edges."},
+    {"pair": "Horizontal pair 4", "A": "left", "B": "right", "reason": "A has a clear leftward face turn; B has the inverse rightward face turn."},
+    {"pair": "Horizontal pair 5", "A": "down-right", "B": "down-left", "reason": "Both look toward the clipboard; A pupils and face lean right, B lean left."},
+    {"pair": "Horizontal pair 6", "A": "down-left", "B": "down-right", "reason": "Low pupils in both; the head and eyes diverge left versus right."},
+    {"pair": "Horizontal pair 7", "A": "down-right", "B": "down-left", "reason": "Both heads dip; A pupils sit rightward and B pupils leftward."},
+    {"pair": "Vertical pair 1", "A": "down", "B": "up", "reason": "A head is lowered with low pupils; B looks upward with high pupils."},
+    {"pair": "Vertical pair 2", "A": "down-right", "B": "up-right", "reason": "Both favor screen right; A eyes are lowered toward the clipboard, B eyes raised."},
+    {"pair": "Vertical pair 3", "A": "down-right", "B": "up-right", "reason": "Rightward face orientation in both, with low versus high pupils."},
+    {"pair": "Vertical pair 4", "A": "right", "B": "up-right", "reason": "A is nearly horizontal right; B has visibly higher pupils while still facing right."},
+    {"pair": "Vertical pair 5", "A": "down", "B": "up", "reason": "A pupils and eyelids lower over the clipboard; B pupils lift toward the top edge."},
+    {"pair": "Vertical pair 6", "A": "down-left", "B": "up-left", "reason": "Both favor screen left; A gaze is lowered, B raised."},
+    {"pair": "Vertical pair 7", "A": "up-left", "B": "down-left", "reason": "Both favor screen left; A pupils are higher and B pupils lower."}
+  ]
+}

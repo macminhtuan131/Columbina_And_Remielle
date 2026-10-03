@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "errors": [],
+  "warnings": [
+    "Motion continuity was assessed from ordered frames; real-time playback timing was not evaluated."
+  ],
+  "observations": [
+    "Reviewed all 73 populated cells across rows 0 through 10; empty red-bordered cells are unused slots.",
+    "Only the eight row 9 poses show open purple eyes. Every populated pose in rows 0 through 8 and row 10 shows closed eyes and/or the white diamond eye mask, with no visible open-eye leak.",
+    "Gentle small closed-mouth smiles are present throughout; the bowed failed poses reduce mouth visibility but do not show an open mouth or a conspicuous frown.",
+    "Seated poses show pale crossed ribbons across both feet and ankles, with exposed pink toes. Both lateral gaits retain the crossed wraps and bare toes; native first-frame previews confirm these details.",
+    "Long burgundy hair, white head ornaments, red-and-white hair ties, blue-white clothing, book, and face proportions remain consistent across the sheet.",
+    "Idle has restrained breathing motion. Jump frames move from a low compact pose through a raised apex and back to the low pose in a coherent order. Both lateral gaits alternate extended and tucked legs consistently.",
+    "No conspicuous crop, detached fragment, hard rectangular patch, registration jump, or unrelated scale mismatch was visible. Transparent native stills have continuous drawn outlines.",
+    "The direction sheet shows screen-right poses across row 9 side angles and screen-left poses across row 10 side angles, with raised versus lowered chin and face perspective supporting the up/down groups."
+  ]
+}

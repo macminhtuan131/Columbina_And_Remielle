@@ -1,0 +1,75 @@
+{
+  "scale": 1.1369294605809128,
+  "scope": "entire coherent eight-pose SOURCE strip",
+  "reason": "Match row9 source maximum silhouette height while retaining one shared registration transform",
+  "source_dimensions": {
+    "look-row-9": [
+      [
+        244,
+        268
+      ],
+      [
+        248,
+        272
+      ],
+      [
+        250,
+        273
+      ],
+      [
+        248,
+        274
+      ],
+      [
+        244,
+        274
+      ],
+      [
+        245,
+        273
+      ],
+      [
+        246,
+        270
+      ],
+      [
+        237,
+        259
+      ]
+    ],
+    "look-row-10": [
+      [
+        240,
+        234
+      ],
+      [
+        232,
+        235
+      ],
+      [
+        228,
+        235
+      ],
+      [
+        226,
+        235
+      ],
+      [
+        229,
+        236
+      ],
+      [
+        229,
+        236
+      ],
+      [
+        235,
+        241
+      ],
+      [
+        235,
+        241
+      ]
+    ]
+  }
+}

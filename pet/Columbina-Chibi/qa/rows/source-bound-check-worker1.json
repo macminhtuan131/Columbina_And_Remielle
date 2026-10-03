@@ -1,0 +1,170 @@
+{
+  "idle": {
+    "source": "/tmp/columbina-mask-repair/decoded/idle.png",
+    "complete_major_components": 6,
+    "bounds": [
+      [
+        74,
+        198,
+        359,
+        497
+      ],
+      [
+        419,
+        198,
+        705,
+        497
+      ],
+      [
+        771,
+        198,
+        1058,
+        497
+      ],
+      [
+        1118,
+        198,
+        1406,
+        497
+      ],
+      [
+        1466,
+        198,
+        1753,
+        497
+      ],
+      [
+        1813,
+        198,
+        2101,
+        497
+      ]
+    ],
+    "outer_edge_foreground": [
+      0,
+      0
+    ],
+    "fresh_inspection_ok": true,
+    "fresh_inspection_report": "/tmp/columbina-mask-repair/qa/rows/idle/review.json"
+  },
+  "running-right": {
+    "source": "/tmp/columbina-mask-repair/decoded/running-right.png",
+    "complete_major_components": 8,
+    "bounds": [
+      [
+        3,
+        197,
+        283,
+        550
+      ],
+      [
+        282,
+        199,
+        549,
+        540
+      ],
+      [
+        545,
+        202,
+        820,
+        552
+      ],
+      [
+        819,
+        202,
+        1082,
+        535
+      ],
+      [
+        1084,
+        203,
+        1352,
+        546
+      ],
+      [
+        1346,
+        207,
+        1608,
+        544
+      ],
+      [
+        1605,
+        202,
+        1885,
+        550
+      ],
+      [
+        1889,
+        207,
+        2151,
+        546
+      ]
+    ],
+    "outer_edge_foreground": [
+      0,
+      0
+    ],
+    "fresh_inspection_ok": true,
+    "fresh_inspection_report": "/tmp/columbina-mask-repair/qa/rows/running-right/review.json"
+  },
+  "running-left": {
+    "source": "/tmp/columbina-mask-repair/decoded/running-left.png",
+    "complete_major_components": 8,
+    "bounds": [
+      [
+        20,
+        188,
+        296,
+        547
+      ],
+      [
+        289,
+        197,
+        554,
+        550
+      ],
+      [
+        564,
+        186,
+        839,
+        546
+      ],
+      [
+        833,
+        198,
+        1099,
+        550
+      ],
+      [
+        1102,
+        188,
+        1379,
+        547
+      ],
+      [
+        1372,
+        197,
+        1636,
+        551
+      ],
+      [
+        1645,
+        185,
+        1921,
+        546
+      ],
+      [
+        1915,
+        199,
+        2167,
+        550
+      ]
+    ],
+    "outer_edge_foreground": [
+      0,
+      0
+    ],
+    "fresh_inspection_ok": true,
+    "fresh_inspection_report": "/tmp/columbina-mask-repair/qa/rows/running-left/review.json"
+  }
+}

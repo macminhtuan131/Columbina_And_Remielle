@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-right","B":"screen-left","reason":"A has a broader exposed screen-left cheek and a smaller screen-right eye; B's mask and face sit toward the screen-left side of the hair, with more hair beside the screen-right cheek."},
+    {"pair":"horizontal-2","A":"screen-right","B":"screen-left","reason":"A's eyes and small mouth turn toward the narrow screen-right facial edge; B's exposed face and mask shift left within the crown, leaving a thick hair mass on the right."},
+    {"pair":"horizontal-3","A":"screen-right","B":"screen-left","reason":"A shows a broad left cheek and a compressed right eye/cheek edge; B has the mask and mouth near the left edge of the head and a much larger hair area on the right."},
+    {"pair":"horizontal-4","A":"screen-left","B":"screen-right","reason":"A's masked face is tucked toward the left edge beneath the bangs, with a broad right hair mass; B exposes more left cheek and places the smaller right eye near the right facial boundary."},
+    {"pair":"horizontal-5","A":"screen-left","B":"screen-right","reason":"A's mask and mouth occupy the left side of the head silhouette; B's open face projects toward the right, with its right eye close to the narrow right cheek edge."},
+    {"pair":"horizontal-6","A":"screen-left","B":"screen-right","reason":"A's facial oval and mask are displaced left relative to the surrounding hair; B shows the eyes and mouth displaced right, a wider left cheek, and a narrower right eye."},
+    {"pair":"horizontal-7","A":"screen-right","B":"ambiguous","reason":"A's screen-right eye and cheek are narrower than the screen-left eye and cheek, suggesting a slight right turn despite the lowered head. B's mask band, small mouth, and chin look nearly centered, without a clear enough yaw cue."},
+    {"pair":"vertical-1","A":"down","B":"up","reason":"A has a large visible crown and bangs lowered over the mask, with the chin tucked toward the collar. B exposes a taller lower face and lifts its chin above the collar."},
+    {"pair":"vertical-2","A":"down","B":"up","reason":"A's eyes sit low under heavy bangs and the chin is compressed toward the chest. B's eye line is higher, the cheek-to-chin area is taller, and the head tilts back."},
+    {"pair":"vertical-3","A":"down","B":"up","reason":"A shows more crown above a low eye line and a tucked chin. B shows a raised eye line and a longer exposed cheek/chin plane beneath it."},
+    {"pair":"vertical-4","A":"up","B":"down","reason":"A lifts the face, exposing more lower cheek and chin under the eyes. B's eyes are lower beneath the bangs and its chin comes closer to the collar."},
+    {"pair":"vertical-5","A":"up","B":"down","reason":"A's mask sits high on a lifted face with a broad exposed lower facial plane. B has a large crown, low mask under hanging bangs, and a visibly tucked chin."},
+    {"pair":"vertical-6","A":"down","B":"up","reason":"A's mask and mouth sit lower beneath a prominent crown, with the chin near the collar. B's mask is higher and its upward facial plane exposes more cheek and chin."},
+    {"pair":"vertical-7","A":"up","B":"down","reason":"A's masked face has a higher eye band and more exposed lower cheek below it. B's bangs and mask descend toward the chin, with more visible crown and a more compressed lower face."}
+  ]
+}

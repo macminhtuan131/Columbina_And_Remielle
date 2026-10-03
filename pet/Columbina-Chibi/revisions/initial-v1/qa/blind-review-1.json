@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-right","B":"screen-left","reason":"A's nose and chin project toward the right edge of the face, with the right eye near that edge; B's nose and chin project left, and the left eye sits near the left facial edge."},
+    {"pair":"horizontal-2","A":"screen-left","B":"screen-right","reason":"A's visible nose is left of the midpoint between the head's outer hair edges and the face opens left; B's nose and exposed cheek shift right beneath the hair."},
+    {"pair":"horizontal-3","A":"screen-right","B":"screen-left","reason":"A has a rightward projecting nose and a compressed eye at the right facial edge; B has the mirrored leftward nose and compressed eye at the left facial edge."},
+    {"pair":"horizontal-4","A":"screen-left","B":"screen-right","reason":"A's nose points left of the large near eye and its exposed cheek opens to the left; B's nose points right of the large near eye and its cheek opens to the right."},
+    {"pair":"horizontal-5","A":"screen-left","B":"screen-right","reason":"A's nose and mouth are displaced toward the left side of the head and the far eye is narrow at the left edge; B's nose and mouth shift right with the narrow far eye at the right edge."},
+    {"pair":"horizontal-6","A":"screen-right","B":"screen-left","reason":"A's lowered face has its nose and chin on the right side beneath the bangs; B's nose is on the left side beneath the bangs, with the larger eye on the right cheek."},
+    {"pair":"horizontal-7","A":"screen-left","B":"screen-right","reason":"A's small nose and mouth sit slightly left of the head center, and the left eye is more compressed; B's lowered nose and mouth sit right of the head center, and the right eye is more compressed."},
+    {"pair":"vertical-1","A":"up","B":"down","reason":"A's chin is raised and the large open eyes look toward the upper face; B's head is bowed, with pupils below low upper lids and the nose close to the lowered chin."},
+    {"pair":"vertical-2","A":"down","B":"up","reason":"A's crown and bangs tip forward over the lowered eyes and nose; B's open eyes and nose tilt upward, exposing the raised lower face and chin."},
+    {"pair":"vertical-3","A":"up","B":"down","reason":"A's nose tip rises beside large open eyes and the chin tilts up; B's bangs fall over narrowed eyes and its nose and chin angle downward toward the book."},
+    {"pair":"vertical-4","A":"down","B":"up","reason":"A's eyes sit low under the bangs with the nose and chin angled slightly down; B's nose is higher and the larger open eye and raised chin visibly tilt upward."},
+    {"pair":"vertical-5","A":"up","B":"down","reason":"A's pupils and wide eyes face upward above a raised nose and chin; B's upper eyelids cover much of the eyes and its small nose and chin are bowed downward."},
+    {"pair":"vertical-6","A":"down","B":"up","reason":"A's lower eyelid openings and lowered nose sit beneath forward bangs; B's nose tip and chin lift, with open eyes aimed toward the upper left."},
+    {"pair":"vertical-7","A":"up","B":"down","reason":"A's nose tip and exposed chin angle upward with a wide near eye; B's nose and lower face angle lower, with the eyes sitting farther under the upper lids."}
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "ambiguous",
+      "reason": "A has a right-shifted facial plane and chin, with the right cheek shortened. B looks nearly frontal with its chin raised; the mask hides landmarks needed to establish horizontal direction."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A face and chin turn to the right. B face is displaced left within the hair, with a broad right hair mass and a shortened left cheek contour."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A facial center and chin are right of the head center. B mask, mouth, and chin are left of the head center, with hair overlapping the right side of the face."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A has a leftward facial plane with the left cheek contour shortened. B face is shifted right with the visible eye and cheek perspective indicating rightward yaw."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A mask and chin sit left within the hair silhouette and the right side of the head is broader. B face and chin sit toward the right with a compressed right cheek."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A face and mouth are offset left under the bangs, with more hair on the right. B chin and facial plane are offset right, even with the head lowered."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "ambiguous",
+      "reason": "A facial center and chin remain rightward despite its lowered pitch. B masked face appears nearly frontal and symmetric; the remaining cheek and chin landmarks do not clearly establish yaw."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A has a large visible crown, low bangs and mask, and a chin tucked near the collar. B shows an expanded face with a raised chin and face tilted upward."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A has lowered eyelids, a compressed face beneath the bangs, and a tucked chin. B has a raised facial plane and more open cheek-to-chin area."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A crown is prominent and chin is lowered toward the collar. B face points upward, with higher facial landmarks and a longer exposed cheek area."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A has the face lifted with more cheek exposed and the chin raised. B face is compressed beneath the bangs and its chin is tucked."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "up",
+      "B": "down",
+      "reason": "A mask is high on an expanded, upward-facing facial plane and the chin is lifted. B crown is prominent, mask sits low under the bangs, and chin approaches the collar."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A has deeper bangs and a shorter exposed face with its chin lowered. B shows a lifted cheek and chin plane, with less top-of-head perspective."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A has more crown visible, lower facial landmarks, and a shorter face above the collar. B has a slightly lifted facial plane, higher mask and mouth, and more exposed lower cheek."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+#gemini-ai-widget-container {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 999999;
+  pointer-events: auto;
+  cursor: grab;
+  user-select: none;
+}
+
+#gemini-ai-widget-container.dragging {
+  cursor: grabbing;
+}
+
+#gemini-ai-widget-container img {
+  width: 150px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: opacity 0.3s ease-in-out;
+  pointer-events: none;
+  -webkit-user-drag: none;
+}

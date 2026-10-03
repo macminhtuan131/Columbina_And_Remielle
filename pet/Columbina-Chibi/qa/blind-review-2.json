@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A has the face and chin shifted right beneath the hair, with the far right eye narrower. B has the masked face shifted left, with more cheek and hair volume on the right."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A shows a larger left eye and a narrower right eye with the chin displaced right. B exposes its cheek toward the left edge while the right side of the head is dominated by hair."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A places its eye line and chin toward the right side of the head. B places the mask and mouth toward the left and shows a broad hair-covered right side."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A presents its face near the left outline with a large hair mass to the right. B presents its face and chin to the right, with the right eye compressed by perspective."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A has the mask, small mouth, and chin displaced left relative to the crown. B has its visible face displaced right and its far right eye narrower."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A exposes its face on the left side and has substantially more hair framing the right cheek. B angles the face and chin right, with the right eye smaller than the left."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A has its lowered face shifted right beneath the crown and a narrower right eye. B has the mask and lower face shifted left beneath the crown, leaving more hair on the right."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A shows a large top-of-head area, low mask, and chin tucked close to the collar. B shows a taller exposed face, raised eye line, and a lifted chin above the collar."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A has the crown prominent above a compressed face and low chin. B has larger open eyes, more exposed lower face, and a higher chin with visible neck."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A has flattened eyes under lowered bangs and its chin close to the book. B has a taller face and raised chin with more space between the chin and book."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A exposes a taller face with wide eyes and the chin lifted above the collar. B shows more top-of-head surface, compressed eyelids, and its face tucked lower."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "up",
+      "B": "down",
+      "reason": "A has the masked face raised with a broad exposed lower cheek and chin area plus visible neck. B has the mask lower under a prominent crown and the chin tucked toward the collar."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A places the mask and chin low, close to the collar, with more crown visible. B raises the face, exposes a larger cheek-to-chin area, and shows more neck."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A has a short exposed lower face and a chin close to the book. B has a taller visible cheek and chin area and a raised chin farther above the book."
+    }
+  ]
+}

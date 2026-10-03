@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair": "Horizontal pair 1", "A": "up-left", "B": "up-right", "reason": "Both faces lift; A's eye line and face angle lean screen-left, B's lean screen-right."},
+    {"pair": "Horizontal pair 2", "A": "up-right", "B": "up-left", "reason": "Both faces look high; A turns toward screen-right, B toward screen-left."},
+    {"pair": "Horizontal pair 3", "A": "right", "B": "left", "reason": "A has a clear right-facing head and gaze, while B faces screen-left."},
+    {"pair": "Horizontal pair 4", "A": "left", "B": "right", "reason": "A's face and eyes turn screen-left, B's turn screen-right."},
+    {"pair": "Horizontal pair 5", "A": "down-right", "B": "down-left", "reason": "Both eye lines dip; A aims screen-right, B aims screen-left."},
+    {"pair": "Horizontal pair 6", "A": "down-left", "B": "down-right", "reason": "Both heads bow; A's face angles screen-left, B's angles screen-right."},
+    {"pair": "Horizontal pair 7", "A": "down-right", "B": "down-left", "reason": "Both look low; A's visible facial turn trends screen-right, B's trends screen-left, though the horizontal signal is subtle."},
+    {"pair": "Vertical pair 1", "A": "down", "B": "up", "reason": "A bows toward the clipboard; B lifts face and pupils above neutral."},
+    {"pair": "Vertical pair 2", "A": "down-right", "B": "up-right", "reason": "Both lean screen-right; A's head and eyes drop toward clipboard, B's lift."},
+    {"pair": "Vertical pair 3", "A": "down-right", "B": "up-right", "reason": "A's eyes and nose point lower, B's eyes and face point higher, with rightward turn in both."},
+    {"pair": "Vertical pair 4", "A": "down-right", "B": "up-right", "reason": "A aims toward the lower screen-right, B toward the upper screen-right."},
+    {"pair": "Vertical pair 5", "A": "down-left", "B": "up-left", "reason": "A bows and looks leftward, B lifts the eyes and face while retaining a leftward angle."},
+    {"pair": "Vertical pair 6", "A": "down-left", "B": "up-left", "reason": "A's eye line is low and screen-left, B's high and screen-left."},
+    {"pair": "Vertical pair 7", "A": "up-left", "B": "down-left", "reason": "A's face and eyes lift while B's lower; both turn toward screen-left."}
+  ]
+}
