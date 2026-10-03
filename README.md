@@ -1,4 +1,4 @@
-# Columbina & Gemielle — Dreamy trying to develop them
+# Columbina & Gemielle — Dreamy trying to develop more
 
 First word from the creator: I tried ._. But I'm still developing them
 
