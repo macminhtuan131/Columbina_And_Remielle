@@ -1,10 +1,10 @@
 {
   "ok": true,
-  "atlas": "/tmp/gemielle-pet-run/final/spritesheet-extended.png",
-  "encoded_bytes": 4181964,
-  "sha256": "c5c293e4d7be889325e1d88ca316f6ffcab10e9c883ad69bc5101ceee6ade4fe",
+  "atlas": "C:\\Users\\USER\\OneDrive - Hanoi University of Science and Technology\\Desktop\\Columbina_And_Remielle\\pet\\Gemielle\\final\\spritesheet-extended.png",
+  "encoded_bytes": 3812897,
+  "sha256": "76ee667d582aac0421b849ca8b55810c67445ee99aaa884f3723fe6ce2f1d324",
   "jump": {
-    "idle_baseline": 202,
+    "idle_baseline": 203,
     "jump_baselines": [
       202,
       181,
@@ -13,7 +13,7 @@
       202
     ],
     "airborne_lift_pixels": 58,
-    "landing_delta_pixels": 0
+    "landing_delta_pixels": 1
   },
   "look_registration": {
     "neutral_center_x": 95.5,

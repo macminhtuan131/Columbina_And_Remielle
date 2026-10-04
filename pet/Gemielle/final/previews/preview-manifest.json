@@ -1,0 +1,8 @@
+{
+  "source_atlas": "pet\\Gemielle\\revisions\\assets-faithful-v2\\final\\spritesheet-extended.png",
+  "states": 9,
+  "look_directions": 16,
+  "all_state_frames": 57,
+  "video": "all-states.mp4",
+  "rendered_from_encoded_sheet": true
+}

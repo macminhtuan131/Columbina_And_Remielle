@@ -1,0 +1,65 @@
+{
+  "ok": true,
+  "atlas": "/tmp/gemielle-pet-run/final/spritesheet-extended.png",
+  "encoded_bytes": 4181964,
+  "sha256": "c5c293e4d7be889325e1d88ca316f6ffcab10e9c883ad69bc5101ceee6ade4fe",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      202,
+      181,
+      144,
+      189,
+      202
+    ],
+    "airborne_lift_pixels": 58,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 95.5,
+    "look_centers_x": [
+      96.5,
+      96.5,
+      94.5,
+      92.5,
+      93.0,
+      95.5,
+      95.5,
+      96.5,
+      99.5,
+      100.5,
+      100.0,
+      99.0,
+      101.5,
+      104.0,
+      102.0,
+      100.5
+    ],
+    "look_widths": [
+      157,
+      157,
+      155,
+      159,
+      158,
+      155,
+      155,
+      155,
+      161,
+      161,
+      160,
+      160,
+      159,
+      166,
+      164,
+      159
+    ],
+    "maximum_center_drift_pixels": 8.5,
+    "maximum_width_ratio": 1.070967741935484
+  },
+  "errors": [],
+  "warnings": [
+    "090->112.5 diff is a local outlier (1833 pixels vs neighbor average 958)",
+    "157.5->180 diff is a local outlier (2139 pixels vs neighbor average 1410)",
+    "337.5->000 diff is a local outlier (2363 pixels vs neighbor average 1602)"
+  ]
+}

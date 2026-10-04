@@ -19,6 +19,12 @@ The original Vietnamese installation guide is preserved in [README.vi.md](README
 
 [Watch Gemielle's animations](pet/Gemielle/final/previews/all-states.gif) · [Watch Columbina's animations](pet/Columbina-Chibi/final/previews/all-states.gif) · [Columbina video](pet/Columbina-Chibi/final/previews/all-states.mp4)
 
+Gemielle's ChatGPT pet now reuses the original GIF poses: calm listening,
+expectant waiting, hand-to-chin thinking, energetic writing with spiral eyes,
+and smiling while lifting her clipboard on completion. Thinking and writing
+share the native pet's active-work loop. See [Gemielle's source mapping and
+repair notes](pet/Gemielle/README.md).
+
 ## Choose how to use them
 
 | Goal | Method |

@@ -1,0 +1,383 @@
+{
+  "operation": "sample and uniformly fit original GIF pixels; preserve other approved rows",
+  "shared_scale": 0.6591760299625468,
+  "replaced_rows": [
+    0,
+    6,
+    7,
+    8
+  ],
+  "preserved_rows": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    9,
+    10
+  ],
+  "source_atlas_sha256": "c5c293e4d7be889325e1d88ca316f6ffcab10e9c883ad69bc5101ceee6ade4fe",
+  "frames": [
+    {
+      "state": "idle",
+      "row": 0,
+      "frame": 0,
+      "source": "assets/user_typing.gif",
+      "source_frame": 0,
+      "source_sha256": "7d0bafaa58e5550e5e576da40a5c8a56766bbbc99f025090777cb379bf4d9d17",
+      "source_viewport": [
+        41,
+        44,
+        295,
+        318
+      ],
+      "shared_scale": 0.6591760299625468
+    },
+    {
+      "state": "idle",
+      "row": 0,
+      "frame": 1,
+      "source": "assets/user_typing.gif",
+      "source_frame": 10,
+      "source_sha256": "7d0bafaa58e5550e5e576da40a5c8a56766bbbc99f025090777cb379bf4d9d17",
+      "source_viewport": [
+        41,
+        44,
+        295,
+        318
+      ],
+      "shared_scale": 0.6591760299625468
+    },
+    {
+      "state": "idle",
+      "row": 0,
+      "frame": 2,
+      "source": "assets/user_typing.gif",
+      "source_frame": 20,
+      "source_sha256": "7d0bafaa58e5550e5e576da40a5c8a56766bbbc99f025090777cb379bf4d9d17",
+      "source_viewport": [
+        41,
+        44,
+        295,
+        318
+      ],
+      "shared_scale": 0.6591760299625468
+    },
+    {
+      "state": "idle",
+      "row": 0,
+      "frame": 3,
+      "source": "assets/user_typing.gif",
+      "source_frame": 30,
+      "source_sha256": "7d0bafaa58e5550e5e576da40a5c8a56766bbbc99f025090777cb379bf4d9d17",
+      "source_viewport": [
+        41,
+        44,
+        295,
+        318
+      ],
+      "shared_scale": 0.6591760299625468
+    },
+    {
+      "state": "idle",
+      "row": 0,
+      "frame": 4,
+      "source": "assets/user_typing.gif",
+      "source_frame": 40,
+      "source_sha256": "7d0bafaa58e5550e5e576da40a5c8a56766bbbc99f025090777cb379bf4d9d17",
+      "source_viewport": [
+        41,
+        44,
+        295,
+        318
+      ],
+      "shared_scale": 0.6591760299625468
+    },
+    {
+      "state": "idle",
+      "row": 0,
+      "frame": 5,
+      "source": "assets/user_typing.gif",
+      "source_frame": 50,
+      "source_sha256": "7d0bafaa58e5550e5e576da40a5c8a56766bbbc99f025090777cb379bf4d9d17",
+      "source_viewport": [
+        41,
+        44,
+        295,
+        318
+      ],
+      "shared_scale": 0.6591760299625468
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frame": 0,
+      "source": "assets/waiting_user_input.gif",
+      "source_frame": 0,
+      "source_sha256": "beb437ac887935f7d5b37954b3883a15963a3ac080f23f6b667589e4e3848dbe",
+      "source_viewport": [
+        41,
+        32,
+        295,
+        318
+      ],
+      "shared_scale": 0.6591760299625468
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frame": 1,
+      "source": "assets/waiting_user_input.gif",
+      "source_frame": 7,
+      "source_sha256": "beb437ac887935f7d5b37954b3883a15963a3ac080f23f6b667589e4e3848dbe",
+      "source_viewport": [
+        41,
+        32,
+        295,
+        318
+      ],
+      "shared_scale": 0.6591760299625468
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frame": 2,
+      "source": "assets/waiting_user_input.gif",
+      "source_frame": 14,
+      "source_sha256": "beb437ac887935f7d5b37954b3883a15963a3ac080f23f6b667589e4e3848dbe",
+      "source_viewport": [
+        41,
+        32,
+        295,
+        318
+      ],
+      "shared_scale": 0.6591760299625468
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frame": 3,
+      "source": "assets/waiting_user_input.gif",
+      "source_frame": 20,
+      "source_sha256": "beb437ac887935f7d5b37954b3883a15963a3ac080f23f6b667589e4e3848dbe",
+      "source_viewport": [
+        41,
+        32,
+        295,
+        318
+      ],
+      "shared_scale": 0.6591760299625468
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frame": 4,
+      "source": "assets/waiting_user_input.gif",
+      "source_frame": 27,
+      "source_sha256": "beb437ac887935f7d5b37954b3883a15963a3ac080f23f6b667589e4e3848dbe",
+      "source_viewport": [
+        41,
+        32,
+        295,
+        318
+      ],
+      "shared_scale": 0.6591760299625468
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frame": 5,
+      "source": "assets/waiting_user_input.gif",
+      "source_frame": 34,
+      "source_sha256": "beb437ac887935f7d5b37954b3883a15963a3ac080f23f6b667589e4e3848dbe",
+      "source_viewport": [
+        41,
+        32,
+        295,
+        318
+      ],
+      "shared_scale": 0.6591760299625468
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frame": 0,
+      "source": "assets/ai_thingking.gif",
+      "source_frame": 0,
+      "source_sha256": "4787cea51a5b3e38ebd48c9c8c2e09cb6fa193a7db6d4d3a6f2e345afc2caf8b",
+      "source_viewport": [
+        42,
+        35,
+        295,
+        318
+      ],
+      "shared_scale": 0.6591760299625468
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frame": 1,
+      "source": "assets/ai_thingking.gif",
+      "source_frame": 14,
+      "source_sha256": "4787cea51a5b3e38ebd48c9c8c2e09cb6fa193a7db6d4d3a6f2e345afc2caf8b",
+      "source_viewport": [
+        42,
+        35,
+        295,
+        318
+      ],
+      "shared_scale": 0.6591760299625468
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frame": 2,
+      "source": "assets/ai_thingking.gif",
+      "source_frame": 28,
+      "source_sha256": "4787cea51a5b3e38ebd48c9c8c2e09cb6fa193a7db6d4d3a6f2e345afc2caf8b",
+      "source_viewport": [
+        42,
+        35,
+        295,
+        318
+      ],
+      "shared_scale": 0.6591760299625468
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frame": 3,
+      "source": "assets/ai_typing.gif",
+      "source_frame": 0,
+      "source_sha256": "809f5ca57d3e6ce1eb51a3498ec31723baa929a5cbdbaec9ba8ff4eaf32a956a",
+      "source_viewport": [
+        40,
+        43,
+        296,
+        318
+      ],
+      "shared_scale": 0.6591760299625468
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frame": 4,
+      "source": "assets/ai_typing.gif",
+      "source_frame": 6,
+      "source_sha256": "809f5ca57d3e6ce1eb51a3498ec31723baa929a5cbdbaec9ba8ff4eaf32a956a",
+      "source_viewport": [
+        40,
+        43,
+        296,
+        318
+      ],
+      "shared_scale": 0.6591760299625468
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frame": 5,
+      "source": "assets/ai_typing.gif",
+      "source_frame": 12,
+      "source_sha256": "809f5ca57d3e6ce1eb51a3498ec31723baa929a5cbdbaec9ba8ff4eaf32a956a",
+      "source_viewport": [
+        40,
+        43,
+        296,
+        318
+      ],
+      "shared_scale": 0.6591760299625468
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frame": 0,
+      "source": "assets/ai_complete_answer.gif",
+      "source_frame": 0,
+      "source_sha256": "60ffa68d7e9d83cd1701875119c42b170e0029a7ae1a7425f799c21419dad1b8",
+      "source_viewport": [
+        58,
+        40,
+        325,
+        318
+      ],
+      "shared_scale": 0.6591760299625468
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frame": 1,
+      "source": "assets/ai_complete_answer.gif",
+      "source_frame": 5,
+      "source_sha256": "60ffa68d7e9d83cd1701875119c42b170e0029a7ae1a7425f799c21419dad1b8",
+      "source_viewport": [
+        58,
+        40,
+        325,
+        318
+      ],
+      "shared_scale": 0.6591760299625468
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frame": 2,
+      "source": "assets/ai_complete_answer.gif",
+      "source_frame": 10,
+      "source_sha256": "60ffa68d7e9d83cd1701875119c42b170e0029a7ae1a7425f799c21419dad1b8",
+      "source_viewport": [
+        58,
+        40,
+        325,
+        318
+      ],
+      "shared_scale": 0.6591760299625468
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frame": 3,
+      "source": "assets/ai_complete_answer.gif",
+      "source_frame": 15,
+      "source_sha256": "60ffa68d7e9d83cd1701875119c42b170e0029a7ae1a7425f799c21419dad1b8",
+      "source_viewport": [
+        58,
+        40,
+        325,
+        318
+      ],
+      "shared_scale": 0.6591760299625468
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frame": 4,
+      "source": "assets/ai_complete_answer.gif",
+      "source_frame": 20,
+      "source_sha256": "60ffa68d7e9d83cd1701875119c42b170e0029a7ae1a7425f799c21419dad1b8",
+      "source_viewport": [
+        58,
+        40,
+        325,
+        318
+      ],
+      "shared_scale": 0.6591760299625468
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frame": 5,
+      "source": "assets/ai_complete_answer.gif",
+      "source_frame": 25,
+      "source_sha256": "60ffa68d7e9d83cd1701875119c42b170e0029a7ae1a7425f799c21419dad1b8",
+      "source_viewport": [
+        58,
+        40,
+        325,
+        318
+      ],
+      "shared_scale": 0.6591760299625468
+    }
+  ],
+  "work_loop": "three authored thinking poses, then three authored writing poses"
+}

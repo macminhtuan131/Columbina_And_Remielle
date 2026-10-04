@@ -1,8 +1,12 @@
 {
-  "id": "pet_6ac10e5a81c48191a81444b67d2fcf7d",
+  "id": "pet_6ac1b7a1db4881919de940d312e33a52",
   "name": "Gemielle",
-  "description": "A cheerful pink-haired chibi assistant who waits, thinks, works, and celebrates with you.",
+  "description": "A pink-haired chibi assistant who listens calmly, thinks with a hand at her chin, writes with spiral eyes, and smiles while lifting her clipboard when finished.",
   "is_custom": true,
   "is_active": false,
-  "spritesheet_sha256": "c5c293e4d7be889325e1d88ca316f6ffcab10e9c883ad69bc5101ceee6ade4fe"
+  "spritesheet_sha256": "76ee667d582aac0421b849ca8b55810c67445ee99aaa884f3723fe6ce2f1d324",
+  "verified_date": "2026-10-04",
+  "timezone": "Asia/Saigon",
+  "source": "final/spritesheet-extended.png",
+  "source_mapping": "qa/asset-provenance.json"
 }
